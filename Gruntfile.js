@@ -48,7 +48,7 @@ module.exports = function (grunt) {
             'retrofont':        { 'description': 'Retro Fonts Game Object',                     'optional': true, 'stub': false },
             'system':           { 'description': 'System Classes',                              'optional': false, 'stub': false },
             'math':             { 'description': 'Math, QuadTree and RND',                      'optional': false, 'stub': false },
-            'net':              { 'description': 'Network Class',                               'optional': true, 'stub': false },
+            'net':              { 'description': 'Network Class',                               'optional': true, 'stub': true },
             'tweens':           { 'description': 'Tween Manager',                               'optional': true, 'stub': true },
             'time':             { 'description': 'Time and Clock Manager',                      'optional': false, 'stub': false },
             'animation':        { 'description': 'Animation and Frame Manager',                 'optional': false, 'stub': false },
